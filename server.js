@@ -1,5 +1,5 @@
 const { createServer } = require("http");
-const BlogModel = require("./blog.model");
+const BlogModel = require("./model/blog.model");
 
 const { parse } = require("url");
 
