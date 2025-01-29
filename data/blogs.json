@@ -1,0 +1,34 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Introduction to JSON",
+        "description": "A beginner's guide to understanding JSON and its uses in web development.",
+        "author": "John Doe"
+      },
+      {
+        "id": 2,
+        "title": "Advanced JavaScript Techniques",
+        "description": "Explore advanced JavaScript concepts like closures, promises, and async/await.",
+        "author": "Jane Smith"
+      },
+      {
+        "id": 3,
+        "title": "Getting Started with React",
+        "description": "Learn the basics of React and how to build your first React application.",
+        "author": "Alice Johnson"
+      },
+      {
+        "id": 4,
+        "title": "Understanding REST APIs",
+        "description": "A comprehensive guide to REST APIs and how to interact with them.",
+        "author": "Bob Brown"
+      },
+      {
+        "id": 5,
+        "title": "Python for Data Science",
+        "description": "An introduction to using Python for data analysis and machine learning.",
+        "author": "Charlie Davis"
+      }
+    ]
+  }
